@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.signatureFont{
+    font-family: 'Ballet', cursive;
+}
+
+.head, h2{
+    font-family: 'Philosopher', sans-serif;
+}
+
+.para{
+    font-family: 'PT Serif Caption', serif;
+}
